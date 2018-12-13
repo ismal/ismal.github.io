@@ -3,5 +3,10 @@ layout: page
 title: Contact information
 ---
 
-dept. of Geoscience and Remote Sensing
 TU Delft
+
+dept. of Geoscience and Remote Sensing
+
+2628CN, Delft
+
+the Netherlands
