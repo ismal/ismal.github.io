@@ -7,4 +7,4 @@ title: MSc and BSc Projects
 * Tom Sassen "The influence of drone flightpath on photogrammetric model quality"
 
 ### BSc Projects
-* Marlee Spreij "DEM generation from Pleiadesdata"
+* Marlee Spreij "DEM generation from Pleiades data"
