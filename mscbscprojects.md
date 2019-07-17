@@ -8,3 +8,6 @@ title: MSc and BSc Projects
 
 ### BSc Projects
 * Marlee Spreij "DEM generation from Pleiades data"
+
+### BSc (Aditional) Projects
+* Veronica Tollenaar "Estimation of horizontal deformation rates based on tachymetric measurements"
